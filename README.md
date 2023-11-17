@@ -225,7 +225,7 @@ flexibility(document.documentElement);
 								<div class="elementor-element elementor-element-a15c162 elementor-widget elementor-widget-image" data-id="a15c162" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.15.0 - 20-08-2023 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="644" height="402" src="images/s1.jpg" class="attachment-full size-full wp-image-579" alt="" srcset="images/s1.jpg 644w, images/s1-300x187.jpg 300w" sizes="(max-width: 644px) 100vw, 644px">															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="644" height="402" src="s1.jpg" class="attachment-full size-full wp-image-579" alt="" srcset="s1.jpg 644w, s1-300x187.jpg 300w" sizes="(max-width: 644px) 100vw, 644px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-ba141ea elementor-widget elementor-widget-image-box" data-id="ba141ea" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
@@ -250,7 +250,7 @@ flexibility(document.documentElement);
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f5d2981 elementor-widget elementor-widget-image" data-id="f5d2981" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="644" height="402" src="images/s2.jpg" class="attachment-full size-full wp-image-580" alt="" srcset="images/s2.jpg 644w, images/s2-300x187.jpg 300w" sizes="(max-width: 644px) 100vw, 644px">															</div>
+															<img decoding="async" width="644" height="402" src="s2.jpg" class="attachment-full size-full wp-image-580" alt="" srcset="s2.jpg 644w, s2-300x187.jpg 300w" sizes="(max-width: 644px) 100vw, 644px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-86a0289 elementor-widget elementor-widget-image-box" data-id="86a0289" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
